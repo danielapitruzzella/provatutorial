@@ -30,10 +30,11 @@ class UserManager{
         
     }
 
+    System.out.println("Ciaoo");
     /*public static int getSizeList(){
         return listaUtenti.size();
     }*/
-
+    System.out.println("XCIAOCIAO");
 
     /*public void removeUser(Utente utente){
         listaUtenti.remove(utente);
